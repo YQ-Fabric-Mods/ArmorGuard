@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "armor_guard",
+  "version": "${version}",
+  "name": "Armor Guard",
+  "description": "Protect your low-durability armor",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["local.armorguard.ArmorGuardClient"],
+    "modmenu": ["local.armorguard.ModMenuIntegration"]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "cloth-config": ">=26.3.159"
+  },
+  "suggests": { "modmenu": "*" }
+}

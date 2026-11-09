@@ -1,0 +1,11 @@
+{
+  "armor_guard.reloaded": "Armor Guard: configuration reloaded.",
+  "armor_guard.config.title": "Armor Guard",
+  "armor_guard.config.general": "Settings",
+  "armor_guard.config.enabled": "Enable Protection",
+  "armor_guard.config.threshold": "Unequip Threshold (Durability Points)",
+  "armor_guard.saved": "Armor Guard: unequipped %s (%s durability left)",
+  "armor_guard.inventory_full": "Armor Guard: inventory full! Make room to save your armor.",
+  "armor_guard.cannot_remove": "Armor Guard: cannot remove %s (e.g. Curse of Binding).",
+  "armor_guard.rejected": "Armor Guard: could not move %s. Check your inventory."
+}

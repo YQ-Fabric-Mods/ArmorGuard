@@ -1,0 +1,11 @@
+{
+  "armor_guard.reloaded": "盔甲保护：已重新加载配置。",
+  "armor_guard.config.title": "盔甲濒损保护",
+  "armor_guard.config.general": "设置",
+  "armor_guard.config.enabled": "启用保护",
+  "armor_guard.config.threshold": "卸甲阈值（耐久点数）",
+  "armor_guard.saved": "盔甲保护：已卸下 %s（剩余 %s 点耐久）",
+  "armor_guard.inventory_full": "盔甲保护：背包已满！请腾出空位以卸下濒损盔甲。",
+  "armor_guard.cannot_remove": "盔甲保护：无法卸下 %s（例如带有绑定诅咒）。",
+  "armor_guard.rejected": "盔甲保护：未能移动 %s，请检查背包。"
+}

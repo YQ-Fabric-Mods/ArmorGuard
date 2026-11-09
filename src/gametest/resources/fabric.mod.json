@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "armor_guard_test",
+  "version": "1.0.0",
+  "name": "Armor Guard integration tests",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-client-gametest": ["local.armorguard.ArmorGuardGameTest"]
+  },
+  "depends": { "armor_guard": "*" }
+}
